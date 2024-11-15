@@ -1,5 +1,5 @@
 #app-mount {
-  background: url("https://raw.githubusercontent.com/jixpy/assets1/dark-theme2-1440.png") center/cover no-repeat;
+  background: url("https://raw.githubusercontent.com/jixpy/assets1/main/dark-theme2-1440.png") center/cover no-repeat;
 }
 
 .tutorialContainer_f9623d .svg_c5f96a {
